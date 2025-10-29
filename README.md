@@ -74,3 +74,5 @@ Python | Pandas | DuckDB | Matplotlib | Scikit-learn
 Extend dataset with YouTube clip analytics (views, likes, sentiment).
 
 Build emotion-based soundtrack prediction using Librosa + Transformer architectures.
+
+**Please refer to the report section for more details and visualization**
